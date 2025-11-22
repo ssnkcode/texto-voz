@@ -1,4 +1,4 @@
-# 🗂️ Organizador de Archivos + 🎤 Conversor de Texto a Voz
+# 🗂️ 🎤 Conversor de Texto a Voz
 
 Este proyecto:
 - **Conversor de Texto a Voz**: Convierte texto a voz en tiempo real usando Kokoro TTS
